@@ -72,6 +72,6 @@
 ## 目录结构（建议）
 
 你可以按如下方式组织仓库：
-python                    3.12
-scikit-learn              1.8.0
-pandas                    2.3.3
+- python                    3.12
+- scikit-learn              1.8.0
+- pandas                    2.3.3
